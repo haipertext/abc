@@ -1,4 +1,3 @@
-
 {
   "LogicalRules": [
     {
@@ -14,7 +13,7 @@
   ],
   "ExecutionSummary": [
     {
-      "execId": "SUMM123456",
+      "execId": "SUMM123456"
     }
   ]
 }
