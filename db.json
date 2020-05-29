@@ -8,7 +8,6 @@
     { "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
   ],
   "ExecutionSummary": [
-    { "execId": "SUMM11111" },
-    { "execId": "SUMM22222" }
+    { "execId": "SUMM11111" }
   ]
 }
