@@ -1,11 +1,24 @@
 {
   "LogicalRules": [
-    { "ruleId": "LOGI11111", "ruleName": "1st logical rule" },
-    { "ruleId": "LOGI22222", "ruleName": "2nd logical rule" }
+    { "ruleId": "LOGI1111", "ruleName": "1st logical rule" },
+    { "ruleId": "LOGI2222", "ruleName": "2nd logical rule" }
   ],
   "TechnicalRules": [
-    { "id": "TECH11111", "ruleId": "TECH11111", "ruleName": "1st technical rule" },
-    { "id": "TECH22222", "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
+    {
+      "assetId": "CI00001111",
+      "rules": [
+        { "ruleId": "TECH1111_1111", "ruleName": "1st technical rule for CI00001111" },
+        { "ruleId": "TECH1111_2222", "ruleName": "2nd technical rule for CI00001111" }
+      ]
+    },
+    {
+      "assetId": "CI00002222",
+      "rules": [
+        { "ruleId": "TECH2222_1111", "ruleName": "1st technical rule for CI00002222" },
+        { "ruleId": "TECH2222_2222", "ruleName": "2nd technical rule for CI00002222" },
+        { "ruleId": "TECH2222_3333", "ruleName": "3rd technical rule for CI00002222" }
+      ]
+    }
   ],
   "ExecutionSummary": [
     { "execId": "SUMM11111" }
