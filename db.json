@@ -11,6 +11,12 @@
     { "rl_ownr_bus_ast_rgstry_id": "CI00002222", "ruleId": "TECH2222_3333", "ruleName": "3rd technical rule for CI00002222" }
   ],
   "ExecutionSummary": [
-    { "execId": "SUMM11111" }
+    { "rl_ownr_bus_ast_rgstry_id": "CI00001111", "execId": "SUMM1111_1111" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00001111", "execId": "SUMM1111_2222" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00001111", "execId": "SUMM1111_3333" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00001111", "execId": "SUMM1111_4444" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00002222", "execId": "SUMM2222_1111" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00002222", "execId": "SUMM2222_2222" },
+    { "rl_ownr_bus_ast_rgstry_id": "CI00002222", "execId": "SUMM2222_3333" }
   ]
 }
