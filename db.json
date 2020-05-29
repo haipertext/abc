@@ -4,8 +4,8 @@
     { "ruleId": "LOGI22222", "ruleName": "2nd logical rule" }
   ],
   "TechnicalRules": [
-    { "ruleId": "TECH11111", "ruleName": "1st technical rule" },
-    { "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
+    { "id": "TECH11111", "ruleId": "TECH11111", "ruleName": "1st technical rule" },
+    { "id": "TECH22222", "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
   ],
   "ExecutionSummary": [
     { "execId": "SUMM11111" }
