@@ -1,19 +1,13 @@
 {
-  "LogicalRules": {
-    "data": [
-      { "ruleId": "LOGI11111", "ruleName": "1st logical rule" },
-      { "ruleId": "LOGI22222", "ruleName": "2nd logical rule" }
-    ]
-  },
-  "TechnicalRules": {
-    "data": [
-      { "ruleId": "TECH11111", "ruleName": "1st technical rule" },
-      { "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
-    ]
-  },
-  "ExecutionSummary": {
-    "data": [
-      { "execId": "SUMM11111" }
-    ]
-  }
+  "LogicalRules": [
+    { "ruleId": "LOGI11111", "ruleName": "1st logical rule" },
+    { "ruleId": "LOGI22222", "ruleName": "2nd logical rule" }
+  ],
+  "TechnicalRules": [
+    { "ruleId": "TECH11111", "ruleName": "1st technical rule" },
+    { "ruleId": "TECH22222", "ruleName": "2nd technical rule" }
+  ],
+  "ExecutionSummary": [
+    { "execId": "SUMM11111" }
+  ]
 }
