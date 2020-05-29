@@ -5,14 +5,14 @@
   ],
   "TechnicalRules": [
     {
-      "assetId": "CI00001111",
+      "rl_ownr_bus_ast_rgstry_id": "CI00001111",
       "rules": [
         { "ruleId": "TECH1111_1111", "ruleName": "1st technical rule for CI00001111" },
         { "ruleId": "TECH1111_2222", "ruleName": "2nd technical rule for CI00001111" }
       ]
     },
     {
-      "assetId": "CI00002222",
+      "rl_ownr_bus_ast_rgstry_id": "CI00002222",
       "rules": [
         { "ruleId": "TECH2222_1111", "ruleName": "1st technical rule for CI00002222" },
         { "ruleId": "TECH2222_2222", "ruleName": "2nd technical rule for CI00002222" },
