@@ -1,4 +1,20 @@
+
 {
-  "ruleId": "ABC123456",
-  "ruleName": "test rule"
+  "LogicalRules": [
+    {
+      "ruleId": "LOGI123456",
+      "ruleName": "test logical rule"
+    }
+  ],
+  "TechnicalRules": [
+    {
+      "ruleId": "TECH123456",
+      "ruleName": "test technical rule"
+    }
+  ],
+  "ExecutionSummary": [
+    {
+      "execId": "SUMM123456",
+    }
+  ]
 }
